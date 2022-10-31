@@ -6,7 +6,7 @@ BRIEF INTRO
 
 i'm jane, an engineer without borders and jane-of-all-trades. 
 
-**professionally**, i've worked in humanitarian crisis response, energy & infrastructure investments, transformative agriculture, community development, and tech to help teams do their best work. i've been a writer, researcher, analyst, strategist, and team leader. i'm currently an [impact fellow](https://fas.org/impact-fellowship/). 
+**professionally**, i've worked in humanitarian crisis response, energy & infrastructure investments, transformative agriculture, community development financing, and responsible tech designed to help teams do their best work. i've been a writer, researcher, analyst, strategist, and team leader. i'm currently an [impact fellow](https://fas.org/impact-fellowship/). 
 
 **personally**, i'm an advocate for [immigrant justice](https://www.advancingjustice-chicago.org/), [an inclusive economy](https://www.upwardlyglobal.org/), [housing as a human right](https://sarahs-circle.org/), and [uplifting future leaders](https://www.lovchicago.org/). i do my darndest to be a net positive force in society and generally believe we all — including in the tech + data world — need to spend more time [actively talking about ethics](https://www.speedwins.tech/posts/jane-yang-from-basecamp#question-13).
 
